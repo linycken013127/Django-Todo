@@ -1,2 +1,2 @@
 # Django-Todo
-A sample ToDo list web site
+A semple ToDo list web site
